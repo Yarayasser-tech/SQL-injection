@@ -1,2 +1,1 @@
-# SQL-injection
-SQL injection vulnerabilities detection using python
+Developed a tool to detect and exploit SQL injection vulnerabilities. 
